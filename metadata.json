@@ -1,0 +1,7 @@
+{
+  "name": "Tools Pro - Advanced Image & PDF Suite",
+  "description": "A professional all-in-one tool for photo editing, AI enhancement, passport photo creation, steganography, format conversion, and PDF tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
